@@ -1,0 +1,4 @@
+# generated / captured artifacts (regenerable, large)
+tests/*.npz
+tests/*.npy
+*.cif

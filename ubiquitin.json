@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ubiquitin",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG",
+          "count": 1
+        }
+      }
+    ]
+  }
+]
